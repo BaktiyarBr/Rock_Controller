@@ -1,0 +1,127 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "db96cd59-6de1-45f1-9ec0-8c631104ac28")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 102.87 38.1)
+		(size 38.1 68.58)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "9c9baf6b-e245-44cf-8dfe-f51e8e0c53aa")
+		(property "Sheetname" "MCU"
+			(at 102.87 37.3884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "mcu.kicad_sch"
+			(at 102.87 107.2646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "naebsiki"
+				(path "/db96cd59-6de1-45f1-9ec0-8c631104ac28"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 219.71 46.99)
+		(size 17.78 17.78)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "b3b75d42-0704-4243-9d35-9b81b5fb7615")
+		(property "Sheetname" "Barometr"
+			(at 219.71 46.2784 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "pressure_sensor.kicad_sch"
+			(at 219.71 65.3546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "naebsiki"
+				(path "/db96cd59-6de1-45f1-9ec0-8c631104ac28"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 175.26 45.72)
+		(size 25.4 20.32)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "ce4acac2-1a3b-4166-8b5a-a02d6bc3819e")
+		(property "Sheetname" "IMU"
+			(at 175.26 45.0084 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "BNO85_IMU.kicad_sch"
+			(at 175.26 66.6246 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "naebsiki"
+				(path "/db96cd59-6de1-45f1-9ec0-8c631104ac28"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)
