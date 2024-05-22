@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "ST-TF-003A_footprint")(type "KiCad")(uri "C:/Users/bnarb/Downloads/ST-TF-003A_footprint")(options "")(descr ""))
+  (lib (name "IS25LP064A-JKLE_footprint")(type "KiCad")(uri "C:/Users/bnarb/Downloads/IS25LP064A-JKLE_footprint")(options "")(descr ""))
+)
