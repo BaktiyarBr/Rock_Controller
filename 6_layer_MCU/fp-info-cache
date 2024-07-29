@@ -1,4 +1,4 @@
-23133559070831491
+23136991584424668
 3920_Shunt_R
 RES_3920R_L200x_BRN
 
@@ -56860,6 +56860,13 @@ heatsink
 0
 0
 0
+IS25LP064A-JKLE_footprint
+SON127P500X600X80-9N
+
+
+0
+9
+9
 Inductor_SMD
 L_6.3x6.3_H3
 Choke, SMD, 6.3x6.3mm 3mm height
@@ -87219,6 +87226,13 @@ rotary encoder
 0
 7
 6
+ST-TF-003A_footprint
+SUNTECH_ST-TF-003A
+
+
+0
+13
+13
 Sensor
 ASAIR_AM2302_P2.54mm_Lead2.75mm_TabDown
 Temperature and humidity module, http://akizukidenshi.com/download/ds/aosong/AM2302.pdf
